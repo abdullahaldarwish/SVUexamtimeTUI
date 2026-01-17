@@ -1,23 +1,23 @@
 # SVU exam time TUI
 a lightweight TUI (Terminal User Interface) for rightfully paranoid syrian Virtual university students to see how much time do they have until every exam starts in thier calender, automatically updating for it to work in the background
 # install instructions
-1. **clone the repository**
+## 1. **clone the repository**
 - execute:
 ```bash
 git clone https://github.com/abdullahaldarwish/SVUexamtimeTUI.git
 cd SVUexamtimeTUI
 ```
-2. **copy the table HTML from your browers to `exams.html`**
+## 2. **copy the table HTML from your browers to `exams.html`**
    - first method (recommended):
         create `exams.html` in the project directory and copy-paste the table HTML from the browser to `exams.html`
    - second method:
         skip this step temporarily and continue to the next steps
-3. **Verify Python is installed**
+## 3. **Verify Python is installed**
 ```bash
 python --version
 ```
 (or `python3 --version` on some systems)
-4. **Install dependencies**
+## 4. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
