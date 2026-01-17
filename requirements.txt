@@ -1,0 +1,2 @@
+beautifulsoup4>=4.12
+windows-curses>=2.3; platform_system=="Windows"
