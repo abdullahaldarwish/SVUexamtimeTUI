@@ -13,13 +13,10 @@ cd SVUexamtimeTUI
    - second method:
         skip this step temporarily and continue to the next steps
 2. **Verify Python is installed**
-
 ```bash
 python --version
 ```
-
 (or `python3 --version` on some systems)
-
 4. **Install dependencies**
 
 ```bash
