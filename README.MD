@@ -31,8 +31,8 @@ pip install -r requirements.txt
 - you can specify how much time it takes to refresh by adding the argument `--interval` or `-i` followed by the duration **default is 5 minutes and minimum is 50 seconds** 
     duration is specified by a number then a period, for example: 5m is 5 minutes
     periods are:
-      - s -> seconds
-      - m -> minute(s)
-      - h -> hour(s)
-      - d -> day(s)
+    - s -> seconds
+    - m -> minute(s)
+    - h -> hour(s)
+    - d -> day(s)
 - example: `python script.py --interval 2h` will refresh every 2 hours
